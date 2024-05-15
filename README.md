@@ -1,6 +1,6 @@
 # FRGO
 
-**Author Lists**： Qingke Zhang*1 , Hao Gao1，2 , Gai-Ge Wang3, Lei Lyu1，4, Junqing Li 5 and Huaxiang Zhang1
+**Author Lists**： Qingke Zhang*（1） , Hao Gao（1，2） , Gai-Ge Wang（3）, Lei Lyu（1，4）, Junqing Li（5） and Huaxiang Zhang（1）
 
 - （1）School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
   
