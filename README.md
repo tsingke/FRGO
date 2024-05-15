@@ -6,7 +6,7 @@
   
 - （2）College of Information Science and Engineering, Northeastern University, Shenyang 110819, China
 
-- （3）School of Computer Science and Technology, Ocean University of China, Qingdao 266100, China d
+- （3）School of Computer Science and Technology, Ocean University of China, Qingdao 266100, China 
   
 - （4）Shandong Provincial Key Laboratory for Novel Distributed Computer Software Technology, Jinan 250358, China
 
