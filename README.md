@@ -1,6 +1,6 @@
 # FRGO: Flexible reshuﬄing growth optimizer for optimization
 
-**Author Lists**： Qingke Zhang*（1） , Hao Gao（1，2） , Zhi-Hui Zhan, Gai-Ge Wang（3）, Lei Lyu（1，4）, Junqing Li（5） and Huaxiang Zhang（1）
+**Author Lists**： Qingke Zhang*（1） , Hao Gao（1，2） , Zhi-Hui Zhan(3), Gai-Ge Wang（4）, Junqing Li（5） and Huaxiang Zhang（1）
 - School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
   
 - College of Information Science and Engineering, Northeastern University, Shenyang 110819, China
