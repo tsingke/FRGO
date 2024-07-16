@@ -13,7 +13,28 @@
 
 
 
-**Abstract**： Evolutionary algorithms (EAs) commonly rely on evolutionary operators with ﬁxed structures to improve solutions. However, this static feature leads individuals to exhibit similar search behavior and weaken the performance of EAs. Conversely, this paper transforms the static logical structure of an operator into a dynamic one using certain rules. This transformation allows the mathematical expression of the operator to evolve randomly, signiﬁcantly enhancing the likelihood of obtaining higher-quality solutions compared to using a static operator. The idea is achieved through a ﬂexible reshuﬄing growth optimizer (FRGO). First, a learning operator is designed to ﬂexibly reshuﬄe its mathematical model, enabling FRGO to adapt to distinct ﬁtness landscapes. Second, a reﬂection operator is proposed that transforms the diﬀerences between Gaussian distribution models into diﬀerences between samples to explore problem spaces. Finally, a dynamic population partitioning strategy is designed to assist the sampling operations. The eﬀectiveness of FRGO is veriﬁed by the component validity and the search behavior analysis. The numerical simulation on the CEC2017, CEC2019, and CEC2022 suites indicates that FRGO is more competitive than nine advanced diﬀerential evolution and particle swarm optimization variants, nine novel metaheuristics, and seven state-of-the-art IEEE CEC competition winners, especially regarding global convergence ability and computational complexity. The source code of the FRGO algorithm is publicly available at https://github.com/tsingke/FRGO.
+**Abstract**： Global optimization performance in evolutionary algorithms (EAs) is heavily reliant on the
+effectiveness and efficiency of search operators. While current EAs often employ single,
+multiple, or hybrid operators for spatial search, these operators are generally pre-defined and
+do not change during execution. Such inherent rigidity limits their adaptability to complex
+search landscapes, hindering performance on intricate optimization problems. To address this
+challenge, we propose a novel variable generative operator construction method. This approach
+leverages a fine-grained combinatorial flexible shuffling technique to automatically generate a
+diverse set of elementary operators from a finite composition pool and adapt them to the evolving
+search environment. This transformation allows the mathematical expression of the operator to
+evolve randomly, significantly enhancing the likelihood of obtaining higher-quality solutions
+compared to using a static operator. The idea is achieved through a flexible reshuffling growth
+optimizer (FRGO). First, a learning operator is designed to flexibly reshuffle its mathematical
+model, enabling FRGO to adapt to distinct fitness landscapes. Second, a reflection operator is
+proposed that transforms the differences between Gaussian distribution models into differences
+between samples to explore problem spaces. Finally, a dynamic population partitioning strategy
+is designed to assist the sampling operations. The effectiveness of FRGO is verified by the
+component validity and the search behavior analysis. The numerical simulation on the CEC2017,
+CEC2019, and CEC2022 suites indicates that FRGO is more competitive than nine advanced
+differential evolution and particle swarm optimization variants, nine novel metaheuristics, and
+seven state-of-the-art IEEE CEC competition winners, especially regarding global convergence
+ability and computational complexity. The source code of the FRGO algorithm is publicly
+available at https://github.com/tsingke/FRGO.
 
 
-The paper has been submitted to Elsevier Journal 《Information Sciences》
+The paper has been submitted to Elsevier Journal
