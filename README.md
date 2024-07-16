@@ -37,4 +37,4 @@ ability and computational complexity. The source code of the FRGO algorithm is p
 available at https://github.com/tsingke/FRGO.
 
 
-The paper is under submitted for review. 
+*Note:* This research is currently under preparation for submission as a manuscript. Copyright of the work resides with the authors and is provided here for educational purposes only.
