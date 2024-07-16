@@ -1,4 +1,4 @@
-# FRGO: Flexible reshuﬄing growth optimizer for optimization
+# Flexible reshuffling element operators for complex optimization
 
 **Author Lists**： Qingke Zhang*（1） , Hao Gao（1，2） , Zhi-Hui Zhan(3), Gai-Ge Wang（4）, Junqing Li（5） and Huaxiang Zhang（1）
 - School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
